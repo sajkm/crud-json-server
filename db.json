@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "name": "Johns",
+      "photo": "https://media.istockphoto.com/id/1296158947/photo/portrait-of-creative-trendy-black-african-male-designer-laughing.jpg?s=612x612&w=0&k=20&c=1Ws_LSzWjYvegGxHYQkkgVytdpDcnmK0upJyGOzEPcg=",
+      "mobile": "123456789",
+      "email": "johns@gmail.com",
+      "company": "Info Park",
+      "title": "HR",
+      "id": 1
+    },
+    {
+      "name": "Sara",
+      "photo": "https://img.freepik.com/free-photo/lifestyle-beauty-fashion-people-emotions-concept-young-asian-female-office-manager-ceo-with-pleased-expression-standing-white-background-smiling-with-arms-crossed-chest_1258-59329.jpg?size=626&ext=jpg&ga=GA1.1.386372595.1698192000&semt=ais",
+      "mobile": "576987986",
+      "email": "sara@gmail.com",
+      "company": "Wipro",
+      "title": "Business Development Manager",
+      "id": 2
+    },
+    {
+      "name": "Ram",
+      "photo": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "mobile": "79796764365",
+      "email": "ram@gmail.com",
+      "company": "Tech Mahindra",
+      "title": "Salesforce Developer",
+      "id": 3
+    },
+    {
+      "name": "Kamal",
+      "photo": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
+      "mobile": "642645878",
+      "email": "kamal@gmail.com",
+      "company": "Infosys",
+      "title": "Data Analyst",
+      "id": 4
+    }
+  ]
+}
